@@ -1,0 +1,88 @@
+.gradient-background {
+    background-color:rgb(232, 230, 230);
+  }
+  .navbar-collapse{
+    display: flex;
+    background-color: rgb(133, 195, 198);
+  }
+  .navbar-nav {
+    display: contents;
+    list-style: none;
+    color: aliceblue;
+  }
+  .navbar-nav li{
+    padding: 10px;
+    border: 1px;
+  }
+  .navbar-nav a{
+    text-decoration: none;
+  }
+  span{
+    color:cornflowerblue;
+  }
+  
+  .bi-box-seam{
+    margin-left: 30px;
+    margin-right: 550px;
+  }
+  
+  .nav-form{
+    margin-inline-start: auto;
+    margin-right: 10px;
+  }
+  
+  .profile-img{
+    height: 500px;
+  }
+  .bg-image{
+    background-color:cadetblue;
+    height: 500px;
+    border-radius: 50%;
+  }
+
+.education{
+justify-content: center;
+display: flex;
+padding: 100px;
+
+}
+.education h1{
+font-weight: bold;
+font-size: 60px;
+margin-top: 80px;
+margin-bottom: 50px;
+margin-right: 200px;
+}
+.edu-periods{
+font-size:medium;  
+}
+.skills{
+display: flex;
+padding: 100px;
+}
+.skills h1{
+font-weight: bold;
+font-size: 60px;
+margin-top: 80px;
+margin-left: 200px;
+margin-right: 30px;
+}
+.items{
+display: flex;
+flex-wrap: wrap;
+justify-content:center;
+}
+.items h3{
+padding: 40px;
+margin: 20px;
+font-size: 40px;
+background-color: cadetblue;
+border-radius: 2rem;
+} 
+.items h3:hover{
+background-color:gray;
+color: white;
+}
+footer{
+font-size: 20px;
+}
